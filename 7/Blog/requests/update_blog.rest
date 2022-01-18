@@ -1,0 +1,9 @@
+PUT http://localhost:3003/api/blogs/618801c50eb7fe03c26e31d1
+Content-Type: application/json
+
+{
+    "title": "smol title",
+    "author": "Jorma2",
+    "url": "www.blog3.com",
+    "likes": 1337
+}
